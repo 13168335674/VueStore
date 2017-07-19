@@ -6,4 +6,4 @@
 
 
 ![](https://github.com/13189449986/VueStore/tree/master/img/1.png)
-![](https://github.com/13189449986/VueStore/tree/master/img/2.png)
+![](https://github.com/13189449986/VueStore/blob/master/img/2.png)
