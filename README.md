@@ -7,3 +7,5 @@
 
 ![](https://github.com/13189449986/VueStore/blob/master/img/1.png)
 ![](https://github.com/13189449986/VueStore/blob/master/img/2.png)
+
+![](http://orf1ycv0g.bkt.clouddn.com/blog/170726/D3m5dfi09f.gif)
